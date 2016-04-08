@@ -1,2 +1,5 @@
 # hello-world
-first repository at github
+
+oh my goodness, oh my dayum, they goin' ohhhhhhhhhhhhh
+
+:D
